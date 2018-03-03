@@ -1,0 +1,18 @@
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.exe.config
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.csprojResolveAssemblyReference.cache
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.exe
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.pdb
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.exe
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.pdb
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.exe.config
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.exe
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.pdb
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.exe
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.pdb
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.csprojResolveAssemblyReference.cache
+F:\Uni\AdvancedSoftwareExercises\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.exe.config
+F:\Uni\AdvancedSoftwareExercises\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.exe
+F:\Uni\AdvancedSoftwareExercises\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.pdb
+F:\Uni\AdvancedSoftwareExercises\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.exe
+F:\Uni\AdvancedSoftwareExercises\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\bin\Debug\Ex2 Poker Hand Generator.pdb
+F:\Uni\AdvancedSoftwareExercises\Ex2 Poker Hand Generator\Ex2 Poker Hand Generator\obj\Debug\Ex2 Poker Hand Generator.csprojResolveAssemblyReference.cache
